@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(129, 212, 192);
+}
+
+header, footer {
+    background-color: rgb(16, 105, 98);
+}
+
+section {
+    background-color: rgb(40, 156, 172);
+}
+#logo{
+    height: 120px;
+    width: 120px;
+}
+
+.imgproducto {
+    height: 200px;
+    width: 200px;
+}
+
+h2, p {
+    color: white;
+}
