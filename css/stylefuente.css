@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(190, 190, 190);
+    font-family: 'Hurricane', cursive;
+    font-size: 2em;
+    color: #130842;
+  }
+
+  p {
+    color: whitesmoke;
+    font-size: 1em;
+    text-align: justify;
+  }
+
+  h4 {
+font-size: 1em;
+}
+  img {
+      width: 20em;
+      height: auto;
+      border: 10px solid transparent; 
+      border-image: linear-gradient(to bottom, #6b6d6d 0%, #323a3b 50%) 1;
+  }
