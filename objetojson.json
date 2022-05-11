@@ -1,0 +1,52 @@
+{
+    "apiName":"AniPoke",
+    "origin":"CDMX",
+    "created":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"Rarity",
+            "type":"Mega",
+            "height":50,
+            "weight":3,
+            "des":"Dragón unicornio con el poder de cambias el aspecto de las cosas",
+            "figure":"https://drive.google.com/uc?export=view&id=1xxHET5XE_0VYOKMAiArfaITJ2fqIC-91"
+        },
+        {
+            "id":2,
+            "name":"Light",
+            "type":"Normal",
+            "height":40,
+            "weight":3.5,
+            "des":"Unicornio con el poder de hacer nevar",
+            "figure":"https://drive.google.com/uc?export=view&id=1zXqV8_BziOgW4uXNTDa0WHEqDLU76T1O"    
+        },
+        {
+            "id":3,
+            "name":"Kychan",
+            "type":"Mega",
+            "height":45,
+            "weight":3,
+            "des":"Dragón chino con el poder de quemar las cosas",
+            "figure":"https://drive.google.com/uc?export=view&id=1TMmji3UDszEBwd0-1eGEwQJH8zvddWT7"        
+        },
+        {
+            "id":4,
+            "name":"Heads",
+            "type":"Mega",
+            "height":70,
+            "weight":5,
+            "des":"Dragón de doble cabeza con el poder de desaparecer las cosas",
+            "figure":"https://drive.google.com/uc?export=view&id=1soIBU4Vor3AGwylqzq1WV7SU_Lu4SbpK"  
+        },
+        {
+            "id":5,
+            "name":"Star",
+            "typo":"Normal",
+            "height":40,
+            "weight":5,
+            "des":"Dinosaurio con el poder de hacer temblar",
+            "figure":"https://drive.google.com/uc?export=view&id=12YYiZ9ACD6ccsmmruhfJpZm7p0_TGKPk"      
+        }
+    ]
+}
