@@ -1,0 +1,31 @@
+#principal {
+    background-color: brown;
+}
+
+header {
+    background-color: #E34207;
+    color: white;
+    padding: 0 10%;
+  }
+  header > h1 {
+    display: inline-block;
+    margin-left: 300 px;
+  }
+
+  #teclado {
+    width: 148px;
+    height: 65px;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+#teclado > .btn {
+  width: 25px;
+  height: 25px;
+  background-color: #FDAC08;
+  display: inline-block;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  border-radius: 3px;
+}
